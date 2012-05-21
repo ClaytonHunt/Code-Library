@@ -18,7 +18,6 @@ local.properties
 .settings/
 .loadpath
 .ncrunchsolution
-.ncrunchproject
 
 # External tool builders
 .externalToolBuilders/
