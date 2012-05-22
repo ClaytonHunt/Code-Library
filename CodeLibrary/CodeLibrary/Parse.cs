@@ -5,7 +5,7 @@ using System.Text;
 
 namespace CodeLibrary
 {
-    public class Parse : SingletonBase<Parse>
+    public sealed class Parse : SingletonBase<Parse>
     {
         private Parse() { }
 
