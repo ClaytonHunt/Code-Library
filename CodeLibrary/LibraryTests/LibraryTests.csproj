@@ -50,7 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CodeLibrary\CodeLibrary.csproj">
-      <Project>{8E880DBF-5753-4539-B448-0FA27CCBC5F3}</Project>
+      <Project>{8e880dbf-5753-4539-b448-0fa27ccbc5f3}</Project>
       <Name>CodeLibrary</Name>
     </ProjectReference>
   </ItemGroup>
