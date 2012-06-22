@@ -6,7 +6,7 @@ using System.Reflection;
 
 namespace CodeLibrary
 {
-    public class SingletonBase<T>
+    public abstract class SingletonBase<T>
     {
         private static class SingletonHolder<T1>
         {
